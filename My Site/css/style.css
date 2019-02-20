@@ -137,13 +137,8 @@ header .intro-text {
 	padding-top: 250px;
 	padding-bottom: 200px;
 }
-
-.col-md-3 animate-box-img {
-  width: 100%;
-  height: 600px;
-  margin-bottom: 30px; }
 /* Portfolio Section */
-#About_Me {
+#portfolio {
 	padding: 40px 0 100px 0;
 }
 .categories {
