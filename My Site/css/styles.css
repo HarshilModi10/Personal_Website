@@ -256,21 +256,25 @@ ol.type li a:hover {
 	background: #262626;
 }
 #contact h2 {
-	font-weight: 400;
-	color: #777;
-	margin: 60px 0;
+	font-size: 42px;
+	font-family: "Quicksand", Arial, sans-serif;
+	font-weight: 500;
+	color: #ffffff
+ }
 }
 #contact img {
 	width: 140px;
 	margin: 5px 30px 10px 0;
 }
 #contact p {
-	color: #000;
+	color: 	#FFFAF0;
 	margin-bottom: 20px;
 	line-height: 24px;
 }
 #contact .social {
+	
 	margin-top: 40px;
+	color: #ffffff;
 }
 #contact .social ul li {
 	display: inline-block;
