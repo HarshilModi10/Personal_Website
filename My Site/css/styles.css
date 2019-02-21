@@ -6,6 +6,7 @@ body, html {
 	font-weight: 400;
 	width: 100% !important;
 	height: 100% !important;
+	scroll-behavior: smooth;
 }
 h1 {
 	color: #333;
@@ -272,7 +273,7 @@ ol.type li a:hover {
 	line-height: 24px;
 }
 #contact .social {
-	
+
 	margin-top: 40px;
 	color: #ffffff;
 }
@@ -370,7 +371,9 @@ color: #777;
   padding: 50px,50px,50px,50px;
   height: 300px;
   margin-bottom: 30px; }
-
+.services:hover{
+	background-color: #A9A9A9;
+}
   .services {
     margin-bottom: 30px;
     padding: 3.5em;
