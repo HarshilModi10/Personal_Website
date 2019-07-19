@@ -225,7 +225,7 @@ ol.type li a:hover {
 }
 
 #imageBox{
-	width: 1500px;
+	width: 100%;
 	padding: 0 150px 0 150px;
 }
 .hover-bg .hover-text {
@@ -528,7 +528,7 @@ label {
 																																										.colorlib-services,
 																																										.colorlib-contact {
 																																											padding-top: 4em;
-																																											padding-bottom: 9em;
+																																											padding-bottom: 4em;
 																																											clear: both;
 																																											width: 100%;
 																																											display: block; }
